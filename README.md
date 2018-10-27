@@ -39,5 +39,6 @@ Alur Algoritma.
     return 0;
 }
 
+# Berikut Adalah Hasil Dari Latihan 1.
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil1/Hasil1.png)
 
