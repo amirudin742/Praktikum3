@@ -68,17 +68,13 @@ Alur Algoritmanya
     	cin>> a >> b >> c;
 
     	if (a<b)
-
 {
-
    	 if (b<c)
 
     	cout<< a << "  " << b << "  " <<c;
 
     	else
-
 {
-
     	if (a<c)
 
     	cout<< a << "  " << c << "  " <<b;
@@ -86,24 +82,16 @@ Alur Algoritmanya
     	else
 
     	cout << c << "  " << a << "  " <<b;
-
 }
-
 }
-
 	else
-
 {
-
     	if (a<c)
 
     	cout << b << "  " << a << "  " << c;
 
-
     	else
-
 {
-
     	if ( b<c )
 
     	cout << b << "  " << c << "  " <<a;
@@ -111,13 +99,9 @@ Alur Algoritmanya
     	else
 
     	cout << c << "  " << b << "  " <<a;
-
 }
-
 }
-
     	return 0;
-
 }
 
 # Berikut Adalah Hasil Dari Latihan 2.
