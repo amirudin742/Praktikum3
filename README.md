@@ -2,7 +2,7 @@
 
 
 *Latihan1 
- Menentukan Bilangan Terbesar Dari Banyaknya Suatu Bilangan.
+ # Menentukan Bilangan Terbesar Dari Banyaknya Suatu Bilangan.
 
 Alur Algoritma.
 	1.Mendeklarasikan int i,max,a, dan x.
@@ -17,7 +17,7 @@ Alur Algoritma.
 		if ( x> max) // jika x lebih besar dari max
 	    	max= x   // maka nilai max adalah x
 
-*Berikut kode lengkapnya
+*Berikut adalah kodenya
 
 	int main()
 {
@@ -39,5 +39,5 @@ Alur Algoritma.
     return 0;
 }
 
-![img] (https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil1/Hasil1.png)
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil1/Hasil1.png)
 
