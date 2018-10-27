@@ -42,3 +42,57 @@ Alur Algoritma.
 # Berikut Adalah Hasil Dari Latihan 1.
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil1/Hasil1.png)
 
+*Latihan2
+# Mengurutkan Hasil Dari Bilangan Yang Terkecil Sampai Yang Terbesar.
+
+Alur Algoritmanya
+	1.Mendeklasrasikan int a,b,c sebagai variabel input
+	2.Membandingkan setiap variabel untuk menentukan nilai yang terkceil sampai yang terbesar
+	3.Dengan menggunkan rumus if dan percabangan
+		if (a<b)
+    		    {
+       		       if (b<c)
+                       cout<< a << "  " << b << "  " <<c;
+		Jika a lebih kecil dari b dan jika b lebih kecil dari c maka yang akan ditampilkan
+		a b c
+
+*Berikut Flowchartnya
+[img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil/Flowchart.png)
+
+*Berikut adalah kodenya
+
+int main()
+{
+    int a,b,c;
+    cin>> a >> b >> c;
+    if (a<b)
+    {
+        if (b<c)
+            cout<< a << "  " << b << "  " <<c;
+        else
+        {
+            if (a<c)
+                cout<< a << "  " << c << "  " <<b;
+            else
+                cout << c << "  " << a << "  " <<b;
+        }
+    }
+    else
+    {
+        if (a<c)
+            cout << b << "  " << a << "  " << c;
+        else
+        {
+            if ( b<c )
+                cout << b << "  " << c << "  " <<a;
+            else
+                cout << c << "  " << b << "  " <<a;
+        }
+    }
+    return 0;
+}
+
+# Berikut Adalah Hasil Dari Latihan 2.
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil2/Hasil1.png)
+![img](https://github.com/amirudin742/Praktikum3/blob/master/Hasil2/Hasil2.png)
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil2/Hasil3.png)
