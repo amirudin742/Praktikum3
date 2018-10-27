@@ -61,7 +61,7 @@ Alur Algoritmanya
 
 *Berikut adalah kodenya
 
-int main()
+	int main()
 {
     int a,b,c;
     cin>> a >> b >> c;
