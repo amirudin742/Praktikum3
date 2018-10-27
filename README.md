@@ -57,7 +57,7 @@ Alur Algoritmanya
 		a b c
 
 *Berikut Flowchartnya
-[img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil/Flowchart.png)
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum3/master/Hasil/Flowchart.png)
 
 *Berikut adalah kodenya
 
